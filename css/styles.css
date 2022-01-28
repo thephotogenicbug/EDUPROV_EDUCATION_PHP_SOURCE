@@ -14,10 +14,16 @@ body {
 }
 
 .navmenu {
-  width: 100vw;
+  width: 100%;
   -webkit-box-shadow: 0 0 10px #e1e5ee;
           box-shadow: 0 0 10px #e1e5ee;
   z-index: 100;
+}
+
+@media screen and (max-width: 900px) {
+  .navmenu {
+    height: 60px;
+  }
 }
 
 .navmenu__list {
@@ -65,7 +71,9 @@ body {
 
 @media screen and (max-width: 900px) {
   .navmenu__listlogo .logo_size {
-    display: none;
+    height: 170px;
+    margin-top: 110px;
+    margin-left: -60px !important;
   }
 }
 
@@ -75,6 +83,12 @@ body {
   position: relative;
   padding: 1.5rem 1rem;
   cursor: pointer;
+}
+
+@media screen and (max-width: 900px) {
+  .navmenu__listitem {
+    display: none;
+  }
 }
 
 .navmenu__listitem::after {

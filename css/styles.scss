@@ -23,7 +23,6 @@ $medium: 900px;
 *,
 *::before,
 *::after {
- 
   margin: 0;
   padding: 0;
 }
@@ -32,9 +31,12 @@ body {
   font-family: "Poppins", sans-serif;
 }
 .navmenu {
-  width: 100vw;
+  width: 100%;
   box-shadow: 0 0 10px $clr-gray300;
   z-index: 100;
+  @media screen and (max-width: $medium) {
+      height: 60px;
+    }
 
   &__list {
     display: flex;
@@ -42,13 +44,13 @@ body {
     align-items: center;
     gap: 2rem;
     margin: 0 2rem;
-      @media screen and (max-width: $medium){
-        display: flex;
-        justify-content:center;
-        align-items: center;
-        gap:2rem;
-        margin: 0 2rem;
-      }
+    @media screen and (max-width: $medium) {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 2rem;
+      margin: 0 2rem;
+    }
     &logo {
       list-style: none;
       margin-right: auto;
@@ -60,7 +62,9 @@ body {
         height: 170px;
         margin-top: 100px;
         @media screen and (max-width: $medium) {
-          display: none;
+           height: 170px;
+           margin-top: 110px;
+           margin-left: -60px !important;
         }
       }
     }
@@ -70,6 +74,9 @@ body {
       position: relative;
       padding: 1.5rem 1rem;
       cursor: pointer;
+       @media screen and (max-width: $medium) {
+          display: none;
+        }
 
       &::after {
         content: "";
@@ -119,10 +126,8 @@ body {
           &:focus {
             background-color: $clr-primary-hover;
           }
-          
         }
       }
     }
   }
 }
-
