@@ -227,11 +227,15 @@ body{
 }
 
 .wrapper{
-  background: #fff;
+  background: #f2f2f2;
   position: fixed;
   z-index: 100;
   width: 100%;
   box-shadow: 5px 0.5px 5px ;
+}
+.logo_size{
+  height: 170px;
+  margin-top: 10px;
 }
 .wrapper nav{
   position: relative;
@@ -249,14 +253,9 @@ nav .content{
  
 }
 nav .content .links{
-  margin-left: 580px;
+  margin-left: 480px;
   display: flex;
   margin-top: 10px;
-}
-.content .logo a{
-  color: #fff;
-  font-size: 30px;
-  font-weight: 600;
 }
 .content .links li{
   list-style: none;
@@ -279,6 +278,7 @@ nav .content .links{
 .content .links li a:hover,
 .content .links li label:hover{
   background: #6d95d6;
+  color: #ffffff;
 }
 .wrapper .search-icon,
 .wrapper .menu-icon{
@@ -341,7 +341,7 @@ nav .content .links{
 /* Dropdown Menu code start */
 .content .links ul{
   position: absolute;
-  background: #9ab6e0;
+  background: #ffffff;
   top: 80px;
   z-index: 2000;
   opacity: 0;
@@ -355,7 +355,8 @@ nav .content .links{
 }
 .content .links ul li a{
   display: block;
-  width: 100%;
+  width: 10px;
+  margin-left: -30px;
   line-height: 30px;
   border-radius: 0px!important;
 }
@@ -392,17 +393,24 @@ nav .content .links{
 @media screen and (max-width: 900px){
   .wrapper .menu-icon{
     display: block;
+    color: #333;
+    font-size: 30px;
   }
   .wrapper #show-menu:checked ~ .menu-icon i::before{
     content: "\f00d";
+    color: #333;
   }
+  .logo_size{
+  height: 150px;
+  margin-top: 10px;
+}
   nav .content .links{
     display: block;
     position: fixed;
-    background: #14181f;
+    background: #f2f2f2;
     height: 100%;
     width: 100%;
-    top: 70px;
+    top: 60px;
     left: -100%;
     margin-left: 0;
     max-width: 350px;
