@@ -18,7 +18,52 @@
 </head>
   <body>
      <!-- nav_menu_start -->
-     <nav class="navmenu">
+      <div class="wrapper">
+    <nav>
+      <input type="checkbox" id="show-search">
+      <input type="checkbox" id="show-menu">
+      <label for="show-menu" class="menu-icon"><i class="fas fa-bars"></i></label>
+      <div class="content">
+      <img src="logo/eduprov_in_logo.png" class="logo_size" alt="Eduprov_in_logo" />
+        <ul class="links">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li>
+            <a href="#" class="desktop-link">Commerce</a>
+            <input type="checkbox" id="show-features">
+            <label for="show-features">Features</label>
+            <ul>
+              <li><a href="#">Drop Menu 1</a></li>
+              <li><a href="#">Drop Menu 2</a></li>
+              <li><a href="#">Drop Menu 3</a></li>
+              <li><a href="#">Drop Menu 4</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="#" class="desktop-link">MBA</a>
+            <input type="checkbox" id="show-services">
+            <label for="show-services">Services</label>
+            <ul>
+              <li><a href="#">Drop Menu 1</a></li>
+              <li><a href="#">Drop Menu 2</a></li>
+              <li><a href="#">Drop Menu 3</a></li>
+              <li>
+                <a href="#" class="desktop-link">More Items</a>
+                <input type="checkbox" id="show-items">
+                <label for="show-items">More Items</label>
+                <ul>
+                  <li><a href="#">Sub Menu 1</a></li>
+                  <li><a href="#">Sub Menu 2</a></li>
+                  <li><a href="#">Sub Menu 3</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+     <!-- <nav class="navmenu">
       <ul class="navmenu__list">
         <li class="navmenu__listlogo">
           <img src="logo/eduprov_in_logo.png" class="logo_size" alt="Eduprov_in_logo" />
@@ -58,7 +103,7 @@
         </div>
       </ul>
       
-    </nav>
+    </nav> -->
     <!-- nav_menu_end -->
     <!-- carousel_menu_start -->
     <div id="carouselExampleInterval" class="carousel slide" data-mdb-ride="carousel">
