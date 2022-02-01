@@ -66,7 +66,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Science (B.Sc)</h5>
         <p class="card-text">Chemistry, Botany, Zoology (CBZ)</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-science.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -77,7 +77,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Science (B.Sc)</h5>
         <p class="card-text">Chemistry</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-science.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -86,7 +86,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Science (B.Sc)</h5>
         <p class="card-text">Biology</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-science.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -97,7 +97,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Science (B.Sc)</h5>
         <p class="card-text">Bio-Chemistry</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-science.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -106,7 +106,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Science (B.Sc)</h5>
         <p class="card-text">Computer Science</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-science.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -117,7 +117,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Science (B.Sc)</h5>
         <p class="card-text">Electronics</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-science.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -126,7 +126,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Science (B.Sc)</h5>
         <p class="card-text">PCM</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-science.php" class="btn btn-primary" target="_blank">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -137,7 +137,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Technology (B.Tech)</h5>
         <p class="card-text">Information Technology</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-technology.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -146,7 +146,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Technology (B.Tech)</h5>
         <p class="card-text">Automobile Engineering</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-technology.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -157,7 +157,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Technology (B.Tech)</h5>
         <p class="card-text">Mechanical Engineering</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-technology.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -166,7 +166,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Technology (B.Tech)</h5>
         <p class="card-text">Electronics & Communication Engineering</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-technology.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -177,7 +177,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Technology (B.Tech)</h5>
         <p class="card-text">Electrical and Electronics Engineering</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-technology.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -186,7 +186,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Technology (B.Tech)</h5>
         <p class="card-text">Computer Science Engineering</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-technology.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -197,7 +197,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Technology (B.Tech)</h5>
         <p class="card-text">Agriculture</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-technology.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -206,7 +206,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Technology (B.Tech)</h5>
         <p class="card-text">Aeronautical Engineering</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-technology.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -217,7 +217,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Arts (B.A)</h5>
         <p class="card-text">Hindi</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-arts.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -226,7 +226,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Arts (B.A)</h5>
         <p class="card-text">General</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-arts.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -237,7 +237,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Arts (B.A)</h5>
         <p class="card-text">General</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-arts.php" target="_blank"  class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -246,7 +246,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Arts (B.A)</h5>
         <p class="card-text">Economics</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-arts.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -257,7 +257,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Arts (B.A)</h5>
         <p class="card-text">English</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-arts.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -266,7 +266,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Arts (B.A)</h5>
         <p class="card-text">History</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-arts.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -277,7 +277,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Arts (B.A)</h5>
         <p class="card-text">FINE ARTS</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-arts.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -286,7 +286,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Arts (B.A)</h5>
         <p class="card-text">Political Science</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-arts.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -297,7 +297,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Library Science</h5>
         <p class="card-text">BLIS</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -306,7 +306,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Business Administration (B.B.A)</h5>
         <p class="card-text">General</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -317,7 +317,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Computer Applications (B.C.A)</h5>
         <p class="card-text">General</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -326,7 +326,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Education (D.Ed)</h5>
         <p class="card-text">General</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -337,7 +337,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Information Technology</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -346,7 +346,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Electronics & Communication Engineering</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -357,7 +357,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Instrumentation & Control Engineering</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -366,7 +366,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Electrical and Electronics Engineering</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -377,7 +377,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Computer Science Engineering</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -386,7 +386,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Civil Engineering</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -397,7 +397,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Automobile Engineering</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -406,7 +406,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Mechanical Engineering</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -417,7 +417,7 @@
       <div class="card-body">
         <h5 class="card-title">Executive Master of Business Administration (EMBA)</h5>
         <p class="card-text">Logistics & Supply chain management</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -426,7 +426,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of Commerce (M.Com)</h5>
         <p class="card-text">General</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -437,7 +437,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of Education (M.Ed)</h5>
         <p class="card-text">General</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -446,7 +446,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of Science (M.Sc)</h5>
         <p class="card-text">Bio-Chemistry</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -457,7 +457,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of Science (M.Sc)</h5>
         <p class="card-text">IT</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -466,7 +466,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of Science (M.Sc)</h5>
         <p class="card-text">Chemistry</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
