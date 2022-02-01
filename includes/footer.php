@@ -18,7 +18,7 @@
                <p  class="text-white"  style="font-size: 14px;">Old Whittlesey Road Suite Columbus Georgia 31904, USA</p>
                <p  class="text-white"  style="font-size: 14px;">4939 Kevin Walker Dr, Montclair, Virginia 22025, USA</p>
                <p  class="text-white"  style="font-size: 14px;"><a href="tel:(+1) 651 967 7789">(+1) 651 967 7789</a></p>
-               <a href="https://eduprov.com/contact-form.php" class="btn-footer" > Contact Us</a>
+               <a href="" class="btn-footer" > Contact Us</a>
             </div>
          </div>
       </div>
@@ -29,8 +29,8 @@
                <div class="row ">
                   <div class="col-md-6">
                      <ul>
-                        <li><a href="https://eduprov.com/sitemap.html"  class="text-white"  style="font-size: 14px;">Sitemap</a> </li>
-                        <li><a href="https://eduprov.com/contact-form.php"  class="text-white"  style="font-size: 14px;"> Contact</a> </li>
+                        <li><a href="#"  class="text-white"  style="font-size: 14px;">Sitemap</a> </li>
+                        <li><a href="#"  class="text-white"  style="font-size: 14px;"> Contact</a> </li>
                      </ul>
                   </div>
                   <div class="col-md-6 px-4"></div>

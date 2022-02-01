@@ -37,7 +37,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Commerce (B.Com)</h5>
         <p class="card-text">General</p>
-        <a href="singhania/bcom-fee-structure.html" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bcom-fee-structure.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -46,7 +46,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Education (B.Ed)</h5>
         <p class="card-text">Hindi Medium</p>
-        <a href="singhania/bachelor-of-education.html" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-education.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -57,7 +57,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Education (B.Ed)</h5>
         <p class="card-text">English</p>
-        <a href="singhania/bachelor-of-education.html" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-education.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>

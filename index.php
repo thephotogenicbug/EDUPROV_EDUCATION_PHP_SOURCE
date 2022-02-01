@@ -44,7 +44,7 @@
                         </div>
                         <div class="col-lg-4 homepage_btn">
                                <a href="tel:080-25591146"><button class="home_page_callbtn mt-3">Call us</button></a>
-                               <a href="https://eduprov.com/application-form.php"><button class="home_page_applynow mt-3">Apply Now</button></a>
+                               <a href="https://eduprov.in/application.php"><button class="home_page_applynow mt-3">Apply Now</button></a>
                         </div>
                     </div>
                 </div>
