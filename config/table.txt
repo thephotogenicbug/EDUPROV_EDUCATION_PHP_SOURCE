@@ -1,0 +1,16 @@
+create table distance_data(
+    id          int(10) primary key auto_increment,
+    name        varchar(100),
+    email       varchar(100),
+    mobileno    bigint(10),
+    dob         varchar(100),
+    gender      varchar(100),
+    fathername  varchar(100),
+    mothername  varchar(100),
+    examname    varchar(100),
+    universityname varchar(100),
+    schoolname     varchar(100),
+    yearofpassing  varchar(100),
+    percentage     varchar(100),
+    address        text(1000),
+)
