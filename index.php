@@ -1,68 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Eduprov.in</title>
+    <title>Best Distance Education in Bangalore</title>
     <link rel="stylesheet" href="css/carousel.css" />
-    <!-- Font Awesome -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"/>
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet"/>
-    <!-- MDB -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.2/mdb.min.css" rel="stylesheet"/>
-    <!-- MDB -->
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.2/mdb.min.js"></script>  
+    <?php include('./includes/header.php') ?>
 </head>
   <body>
-     <!-- nav_menu_start -->
-      <div class="wrapper">
-    <nav>
-      <input type="checkbox" id="show-search">
-      <input type="checkbox" id="show-menu">
-      <label for="show-menu" class="menu-icon"><i class="fas fa-bars"></i></label>
-      <div class="content">
-      <img src="logo/eduprov_in_logo.png" class="logo_size" alt="Eduprov_in_logo" />
-         <ul class="links">
-          <li><a href="https://www.eduprov.in/">HOME</a></li>
-          <li><a href="https://www.eduprov.in/about.html">ABOUT</a></li>
-          <li>
-            <a href="#" class="desktop-link">UG Program</a>
-            <input type="checkbox" id="show-features">
-            <label for="show-features">UG Program</label>
-            <ul>
-              <li><a href="https://www.eduprov.in/blogs/bachelor-of-commerce.html">B.COM</a></li>
-              <li><a href="https://www.eduprov.in/blogs/bachelor-of-business-administration.html">BBA</a></li>
-              <li><a href="https://www.eduprov.in/blogs/bachelor-of-arts.html">B.A</a></li>
-              <li><a href="https://www.eduprov.in/blogs/bachelor-computer-application.html">BCA</a></li>
-            </ul>
-          </li>
-          <li>
-            <a href="#" class="desktop-link">PG Program</a>
-            <input type="checkbox" id="show-services">
-            <label for="show-services">PG Program</label>
-            <ul>
-              <li><a href="https://www.eduprov.in/blogs/master-of-computer-application.html">MCA</a></li>
-              <li><a href="https://www.eduprov.in/blogs/master-of-commerce.html">M.COM</a></li>
-              <li><a href="https://www.eduprov.in/blogs/master-of-arts.html">M.A</a></li>
-              <!-- <li>
-                <a href="#" class="desktop-link">More Items</a>
-                <input type="checkbox" id="show-items">
-                <label for="show-items">More Items</label>
-                <ul>
-                  <li><a href="#">Sub Menu 1</a></li>
-                  <li><a href="#">Sub Menu 2</a></li>
-                  <li><a href="#">Sub Menu 3</a></li>
-                </ul>
-              </li> -->
-            </ul>
-          </li>
-        </ul>
-      </div>
-    </nav>
-  </div>
-    <!-- nav_menu_end -->
+  
+   <?php include('./includes/navigation.php')  ?>
+
     <!-- carousel_menu_start -->
     <div id="carouselExampleInterval" class="carousel slide" data-mdb-ride="carousel">
   <div class="carousel-inner">
@@ -134,7 +80,7 @@
           <div class="card-body">
             <h5 class="card-title" style="color: #14486D;">Bachelor of Commerce</h5>
             <p class="card-text text-justify">Bachelors Of Commerce (B.Com) is an important commerce stream that offers the students a career of their choice and preference</p>
-            <a href="blogs/bachelor-of-commerce.html" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
+            <a href="blogs/bachelor-of-commerce.php" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
           </div>
         </div>
          </div>
@@ -147,7 +93,7 @@
             <div class="card-body">
               <h5 class="card-title" style="color: #14486D;">Bachelor of Business Administration</h5>
               <p class="card-text text-justify">Business administration is a challenging task. Every single decision is very important in a business </p>
-              <a href="blogs/bachelor-of-business-administration.html" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
+              <a href="blogs/bachelor-of-business-administration.php" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
             </div>
           </div>
          </div>
@@ -160,7 +106,7 @@
             <div class="card-body">
               <h5 class="card-title" style="color: #14486D;">Bachelors of Computer Applications</h5>
               <p class="card-text text-justify">Bachelor of Computer Application is an undergraduate degree course in the Computer Application</p>
-              <a href="blogs/bachelor-computer-application.html" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
+              <a href="blogs/bachelor-computer-application.php" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
             </div>
           </div>
          </div>
@@ -175,7 +121,7 @@
           <div class="card-body">
             <h5 class="card-title" style="color: #14486D;">Bachelor of Arts</h5>
             <p class="card-text text-justify">Bachelor of Arts / B.A is a graduate programin which students learn about Liberal Arts or Science or both This course is the oldest course which is still the best choices for many people nowadays</p>
-            <a href="blogs/bachelor-of-arts.html" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
+            <a href="blogs/bachelor-of-arts.php" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
           </div>
         </div>
          </div>
@@ -188,7 +134,7 @@
             <div class="card-body">
               <h5 class="card-title" style="color: #14486D;">Master of Arts</h5>
               <p class="card-text text-justify">Master of Arts / MA is a postgraduate degree program that can be pursued in a wide range of specializations. The duration of this course is 2 years offered by universities all over the world.</p>
-              <a href="blogs/master-of-arts.html" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
+              <a href="blogs/master-of-arts.php" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
             </div>
           </div>
          </div>
@@ -201,7 +147,7 @@
             <div class="card-body">
               <h5 class="card-title" style="color: #14486D;">Master of Commerce</h5>
               <p class="card-text text-justify">Master of Commerce / M.Com commonly known as M. Com is a postgraduate program in Commerce, finance, economics and accounts related aspects. The duration of this master’s degree course is 2 years.</p>
-              <a href="blogs/master-of-commerce.html" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
+              <a href="blogs/master-of-commerce.php" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
             </div>
           </div>
          </div>
@@ -216,7 +162,7 @@
           <div class="card-body">
             <h5 class="card-title" style="color: #14486D;">Master of Computer Application</h5>
             <p class="card-text text-justify">Master of Computer Application / MCA is a postgraduate course in Computer Science. The duration of this course is 3 years and it covers various topics from information technology.</p>
-            <a href="blogs/master-of-computer-application.html" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
+            <a href="blogs/master-of-computer-application.php" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
           </div>
         </div>
          </div>
@@ -238,7 +184,7 @@
             <div class="card-body">
               <p class="card-title fw-bold fs-5" style="color: #14486D;">Jain University</p>
               <p class="card-text" >JAIN (Deemed-to-be University) stands above the curve pan India.</p>
-              <a href="jain-university.html" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
+              <a href="jain-university.php" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
             </div>
           </div>
           </div>
@@ -251,7 +197,7 @@
             <div class="card-body">
               <p class="card-title fw-bold fs-5" style="color: #14486D;">Singhania University</p>
               <p class="card-text">Singhania University is situated at Pacheri Bari, Distt. Jhunjhunu (Rajasthan)</p>
-              <a href="singhania-university.html" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
+              <a href="singhania-university.php" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
             </div>
           </div>
           </div>
@@ -264,7 +210,7 @@
           <div class="card-body">
             <p class="card-title fw-bold fs-5" style="color: #14486D;">Annamalai University</p>
             <p class="card-text" >Annamalai University, accredited with ‘A’ Grade by NAAC in 2014</p>
-            <a href="annamalai-university.html" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
+            <a href="annamalai-university.php" target="_blank" class="btn btn-primary btn-rounded">Read Article</a>
           </div>
         </div>
           </div>
@@ -272,62 +218,6 @@
       </div>
     <!-- home_page_distance_learning_university_content_card_end -->
   
-  <footer class="container-fluid bg-grey py-5 mt-5">
-    <div class="container">
-   <div class="row">
-      <div class="col-md-6">
-         <div class="row">
-            <div class="col-md-6 ">
-               <div class="logo-part">
-                  <img src="banner/eduprov_white.png" class="w-50 logo-footer" >
-                  <h6  class="text-white">Head Office</h6>
-                  <p  class="text-white"  style="font-size: 14px;">No 20 3rd Floor Lady Curzon Rd Santha Complex, Lady Curzon Rd, Infantry Rd, Bengaluru Karnataka 560001</p>
-                  <p  class="text-white"  style="font-size: 14px;"><a href="tel:+91 80 25591146">+91 80 25591146</a></p>
-                  <p  class="text-white"  style="font-size: 14px;">admin@eduprov.com</p>
-               </div>
-            </div>
-            <div class="col-md-6 px-4">
-               <h6  class="text-white">Branch Office</h6>
-               <p  class="text-white"  style="font-size: 14px;">N.E Blaine Minnesota USA 55434</p>
-               <p  class="text-white"  style="font-size: 14px;">Old Whittlesey Road Suite Columbus Georgia 31904, USA</p>
-               <p  class="text-white"  style="font-size: 14px;">4939 Kevin Walker Dr, Montclair, Virginia 22025, USA</p>
-               <p  class="text-white"  style="font-size: 14px;"><a href="tel:(+1) 651 967 7789">(+1) 651 967 7789</a></p>
-               <a href="https://eduprov.com/contact-form.php" class="btn-footer" > Contact Us</a>
-            </div>
-         </div>
-      </div>
-      <div class="col-md-6">
-         <div class="row">
-            <div class="col-md-6 px-4">
-               <h6  class="text-white">Quick Links</h6>
-               <div class="row ">
-                  <div class="col-md-6">
-                     <ul>
-                        <li><a href="https://eduprov.com/sitemap.html"  class="text-white"  style="font-size: 14px;">Sitemap</a> </li>
-                        <li><a href="https://eduprov.com/contact-form.php"  class="text-white"  style="font-size: 14px;"> Contact</a> </li>
-                     </ul>
-                  </div>
-                  <div class="col-md-6 px-4"></div>
-               </div>
-            </div>
-            <div class="col-md-6 ">
-               <h6  class="text-white"> Newsletter</h6>
-               <div class="social">
-                  <a href="https://www.facebook.com/eduprovinstitute/"><i class="fab fa-facebook" aria-hidden="true"></i></a>
-                  <a href="https://www.instagram.com/eduprov_education/"><i class="fab fa-instagram" aria-hidden="true"></i></a>
-                  <a href="https://twitter.com/eduprov"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-                  <a href="https://www.tumblr.com/blog/view/eduprov"><i class="fab fa-tumblr-square" aria-hidden="true"></i></a>
-               </div>
-               <form class="form-footer my-3">
-                  <!-- <input type="text"  placeholder="search here...." name="search">
-                  <input type="button" value="Go" > -->
-               </form>
-                <p class="fw-bold text-white"  style="font-size: 14px;">Eduprov Educational Institute 2022 © Copyright : thephotogenicbug</p>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
-  </footer>
+    <?php include('./includes/footer.php')  ?>
   </body>
 </html>

@@ -1,18 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Application Form</title>
-  <!-- Font Awesome -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"/>
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet"/>
-    <!-- MDB -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.2/mdb.min.css" rel="stylesheet"/>
-    <!-- MDB -->
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.2/mdb.min.js"></script>  
+  <link rel="stylesheet" href="css/blog.css" >
+  <?php include('./includes/header.php') ?>
     <script>
       if ( window.history.replaceState ) {
         window.history.replaceState( null, null, window.location.href );
@@ -20,6 +11,9 @@
       </script>
 </head>
 <body>
+
+  <!-- navbar -->
+      <?php include('./includes/navigation.php')  ?>
   
  <?php
       include('config/database.php');
@@ -233,5 +227,7 @@
       });
     });    
   </script>
+  <!-- footer  -->
+<?php include('./includes/footer.php')  ?>
 </body>
 </html>

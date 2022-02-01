@@ -1,26 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bachelor of Education Fee Structure</title>
+    <title>Bachelor of Science Fee Structure</title>
     <link rel="stylesheet" href="../css/blog.css" >
-      <!-- Font Awesome -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"/>
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet"/>
-    <!-- MDB -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.2/mdb.min.css" rel="stylesheet"/>
-    <!-- MDB -->
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.2/mdb.min.js"></script>  
+    <?php include('../includes/header.php') ?>
 </head>
 <body>
-    
-    <div class="container mt-5">
+
+    <?php include('../includes/navigation.php')  ?>
+
+    <div class="container content-container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="fs-3">Bachelor of Education (B.Ed)</h1>
+                <h1 class="fs-3">Bachelor of Science (B.Sc)</h1>
                 <hr style="color: #F1C21B;" />
             </div>
         </div>
@@ -29,42 +21,42 @@
             <div class="col-md-6">
                 <table class="table table-sm table-bordered text-center">
                     <tr>
-                        <th>Eligibility</th>
-                        <td>Bachelors degree / 2years Degree</td>
+                        <th>Eligibility	</th>
+                        <td>12th / 2nd PUC in Science PCB or PCM/ RELEVENT</td>
                     </tr>
-                    <tr>
+                     <tr>
                         <th>Coursemode</th>
                         <td>Annual</td>
                     </tr>
-                    <tr>
+                     <tr>
                         <th>Duration</th>
-                        <td>2</td>
+                        <td>3</td>
                     </tr>
-                    <tr>
+                     <tr>
                         <th>Exams</th>
                         <td>Yearly Once</td>
                     </tr>
-                    <tr>
+                     <tr>
                         <th>Course Fee</th>
-                        <td>35,000</td>
+                        <td>10,000</td>
                     </tr>
-                    <tr>
+                     <tr>
                         <th>Application Fee	</th>
                         <td>1,000</td>
                     </tr>
                     <tr>
                         <th>Exam Fee</th>
-                        <td>3,500</td>
+                        <td>3,000</td>
                     </tr>
                     <tr>
                         <th>Total Fee</th>
-                        <td>39,500</td>
+                        <td>14,000</td>
                     </tr>
                 </table>
             </div>
             <div class="col-md-3"></div>
         </div>
     </div>
-
+      <?php include('../includes/footer.php')  ?>
 </body>
 </html>
