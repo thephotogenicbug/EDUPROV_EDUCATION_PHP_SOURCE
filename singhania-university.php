@@ -297,7 +297,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Library Science</h5>
         <p class="card-text">BLIS</p>
-        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-library-science.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -306,7 +306,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Business Administration (B.B.A)</h5>
         <p class="card-text">General</p>
-        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-business-administration.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -317,7 +317,7 @@
       <div class="card-body">
         <h5 class="card-title">Bachelor of Computer Applications (B.C.A)</h5>
         <p class="card-text">General</p>
-        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/bachelor-of-computer-application.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -326,7 +326,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Education (D.Ed)</h5>
         <p class="card-text">General</p>
-        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/diploma-in-education.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -337,7 +337,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Information Technology</p>
-        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/diploma-in-engineering.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -346,7 +346,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Electronics & Communication Engineering</p>
-        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/diploma-in-engineering.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -357,7 +357,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Instrumentation & Control Engineering</p>
-        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/diploma-in-engineering.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -366,7 +366,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Electrical and Electronics Engineering</p>
-        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/diploma-in-engineering.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -377,7 +377,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Computer Science Engineering</p>
-        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/diploma-in-engineering.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -386,7 +386,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Civil Engineering</p>
-        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/diploma-in-engineering.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -397,7 +397,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Automobile Engineering</p>
-        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/diploma-in-engineering.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -406,7 +406,7 @@
       <div class="card-body">
         <h5 class="card-title">Diploma in Engineering</h5>
         <p class="card-text">Mechanical Engineering</p>
-        <a href="#" target="_blank" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/diploma-in-engineering.php" target="_blank" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
