@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Diploma in Education</title>
-    <link rel="stylesheet" href="../css/blog.css" >
+    <title>Master of Commerce</title>
+      <link rel="stylesheet" href="../css/blog.css" >
     <?php include('../includes/header.php') ?>
 </head>
 <body>
-
-     <?php include('../includes/navigation.php')  ?>
-     <div class="container content-container">
+       <?php include('../includes/navigation.php')  ?>
+         <div class="container content-container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="fs-3">Diploma in Education</h1>
+                <h1 class="fs-3">Master of Commerce</h1>
                 <hr style="color: #F1C21B;" />
             </div>
         </div>
@@ -20,42 +19,42 @@
             <div class="col-md-6">
                 <table class="table table-sm table-bordered text-center">
                     <tr>
-                        <th>Eligibility</th>
-                        <td>Diploma in Education</td>
+                        <th>Eligibility</td>
+                        <td>B.Com Degree</td>
                     </tr>
                      <tr>
-                        <th>Coursemode</th>
+                        <th>Coursemode</td>
                         <td>Annual</td>
                     </tr>
                      <tr>
-                        <th>Duration</th>
+                        <th>Duration</td>
                         <td>2</td>
                     </tr>
                      <tr>
-                        <th>Exams</th>
+                        <th>Exams</td>
                         <td>Yearly Once</td>
                     </tr>
                      <tr>
-                        <th>Course Fee</th>
-                        <td>20,500</td>
+                        <th>Course Fee</td>
+                        <td>12,000</td>
                     </tr>
-                     <tr>
-                        <th>Application Fee</th>
+                    <tr>
+                        <th>Application Fee</td>
                         <td>1,000</td>
                     </tr>
-                     <tr>
-                        <th>Exam Fee</th>
+                    <tr>
+                        <th>Exam Fee</td>
                         <td>3,000</td>
                     </tr>
                      <tr>
-                        <th>Total Fee</th>
-                        <td>24,500</td>
+                        <th>Total Fee</td>
+                        <td>16,000</td>
                     </tr>
                 </table>
             </div>
             <div class="col-md-3"></div>
         </div>
     </div>
-     <?php include('../includes/footer.php')  ?>
+        <?php include('../includes/footer.php')  ?>
 </body>
 </html>

@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="css/carousel.css" />
     <?php include('./includes/header.php') ?>
 </head>
-  <body>
+  <body onload="togglePopup()">
   
    <?php include('./includes/navigation.php')  ?>
 
@@ -217,7 +217,44 @@
         </div>
       </div>
     <!-- home_page_distance_learning_university_content_card_end -->
+
+    <!-- popup form  -->
+    <div class="container popup" id="popup-1">
+        <div class="overlay"></div>
+        <div class="content">
+            <div class="close-btn" onclick="togglePopup()">&times;</div>
+            <h5 class="fs-4">Application Form</h5>
+            <hr style="color: #F1C21B;" />
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="input_wrapper">
+                        <label class="fw-bold fs-6">Full Name</label>
+                         <input type="text" />
+                    </div>
+                    <div class="input_wrapper">
+                        <label class="fw-bold fs-6">Email ID</label>
+                         <input type="text" />
+                    </div>
+                    <div class="input_wrapper">
+                        <label class="fw-bold fs-6">Mobile No</label>
+                         <input type="text" />
+                    </div>
+                    <div class="input_wrapper">
+                        <label class="fw-bold fs-6">Query</label>
+                         <input type="text" />
+                    </div>
+                    <div class="button_wrapper ">
+                        <button>SUBMIT</button>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                   <img src="banner/popup_prev_ui.png" class="popup_form" />
+                </div>
+            </div> 
+        </div>
+     </div>
   
     <?php include('./includes/footer.php')  ?>
+     <script src="app.js"></script>
   </body>
 </html>
