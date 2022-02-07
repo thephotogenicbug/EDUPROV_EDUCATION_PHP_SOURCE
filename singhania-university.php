@@ -597,7 +597,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of ARTS (M.A)</h5>
         <p class="card-text">Economics</p>
-        <a  target="_blank" href="#" class="btn btn-primary">Fee Structure</a>
+        <a  target="_blank" href="singhania/master-of-arts-economics.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -606,7 +606,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of ARTS (M.A)</h5>
         <p class="card-text">Psychology</p>
-        <a  target="_blank" href="#" class="btn btn-primary">Fee Structure</a>
+        <a  target="_blank" href="singhania/master-of-arts-psychology.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -617,7 +617,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of ARTS (M.A)</h5>
         <p class="card-text">Sociology</p>
-        <a  target="_blank" href="#" class="btn btn-primary">Fee Structure</a>
+        <a  target="_blank" href="singhania/master-of-arts-sociology.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -626,7 +626,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of ARTS (M.A)</h5>
         <p class="card-text">Education</p>
-        <a  target="_blank" href="#" class="btn btn-primary">Fee Structure</a>
+        <a  target="_blank" href="singhania/master-of-arts-education.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -637,7 +637,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of ARTS (M.A)</h5>
         <p class="card-text">Sanskrit</p>
-        <a   target="_blank" href="#" class="btn btn-primary">Fee Structure</a>
+        <a   target="_blank" href="singhania/master-of-arts-sanskrit.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -646,7 +646,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of ARTS (M.A)</h5>
         <p class="card-text">English</p>
-        <a  target="_blank" href="#" class="btn btn-primary">Fee Structure</a>
+        <a  target="_blank" href="singhania/master-of-arts-english.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -657,7 +657,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of Computer Application (MCA) / Lateral Entry also Available only after BCA</h5>
         <p class="card-text">General</p>
-        <a  target="_blank" href="#" class="btn btn-primary">Fee Structure</a>
+        <a  target="_blank" href="singhania/mca-lateral-entry.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -666,7 +666,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of Fine ARTS (M.F.A)</h5>
         <p class="card-text">General</p>
-        <a  target="_blank" href="#" class="btn btn-primary">Fee Structure</a>
+        <a  target="_blank" href="singhania/master-of-fine-arts.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -677,7 +677,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of Business Administration (M.B.A)</h5>
         <p class="card-text">Marketing</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/master-of-business-administration.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -686,7 +686,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of Business Administration (M.B.A)</h5>
         <p class="card-text">Hospital Management</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/master-of-business-administration.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -697,7 +697,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of Business Administration (M.B.A)</h5>
         <p class="card-text">Human Resources (HR)</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/master-of-business-administration.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -706,7 +706,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of Business Administration (M.B.A)</h5>
         <p class="card-text">Finance</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/master-of-business-administration.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
@@ -717,7 +717,7 @@
       <div class="card-body">
         <h5 class="card-title">Master of Business Administration (M.B.A)</h5>
         <p class="card-text">IT (Information Technology )</p>
-        <a href="#" class="btn btn-primary">Fee Structure</a>
+        <a href="singhania/master-of-business-administration.php" class="btn btn-primary">Fee Structure</a>
       </div>
     </div>
   </div>
