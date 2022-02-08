@@ -7,17 +7,17 @@
       <div class="content">
         <a href="https://www.eduprov.in/"><img src="https://eduprov.com/images/eduprov_logo_color.png" class="logo_size" alt="Eduprov_in_logo" /></a>
          <ul class="links">
-          <li><a href="https://www.eduprov.in/">HOME</a></li>
-          <li><a href="https://www.eduprov.in/about.php">ABOUT</a></li>
+          <li><a href="../index.php">HOME</a></li>
+          <li><a href="../about.php">ABOUT</a></li>
           <li>
             <a href="#" class="desktop-link">UG Program</a>
             <input type="checkbox" id="show-features">
             <label for="show-features">UG Program</label>
             <ul>
-              <li><a href="https://www.eduprov.in/blogs/bachelor-of-commerce.php">B.COM</a></li>
-              <li><a href="https://www.eduprov.in/blogs/bachelor-of-business-administration.php">BBA</a></li>
-              <li><a href="https://www.eduprov.in/blogs/bachelor-of-arts.php">B.A</a></li>
-              <li><a href="https://www.eduprov.in/blogs/bachelor-computer-application.php">BCA</a></li>
+              <li><a href="../blogs/bachelor-of-commerce.php">B.COM</a></li>
+              <li><a href="../blogs/bachelor-of-business-administration.php">BBA</a></li>
+              <li><a href="../blogs/bachelor-of-arts.php">B.A</a></li>
+              <li><a href="../blogs/bachelor-computer-application.php">BCA</a></li>
             </ul>
           </li>
           <li>
@@ -25,9 +25,9 @@
             <input type="checkbox" id="show-services">
             <label for="show-services">PG Program</label>
             <ul>
-              <li><a href="https://www.eduprov.in/blogs/master-of-computer-application.php">MCA</a></li>
-              <li><a href="https://www.eduprov.in/blogs/master-of-commerce.php">M.COM</a></li>
-              <li><a href="https://www.eduprov.in/blogs/master-of-arts.php">M.A</a></li>
+              <li><a href="../blogs/master-of-computer-application.php">MCA</a></li>
+              <li><a href="../blogs/master-of-commerce.php">M.COM</a></li>
+              <li><a href="../blogs/master-of-arts.php">M.A</a></li>
               <!-- <li>
                 <a href="#" class="desktop-link">More Items</a>
                 <input type="checkbox" id="show-items">
