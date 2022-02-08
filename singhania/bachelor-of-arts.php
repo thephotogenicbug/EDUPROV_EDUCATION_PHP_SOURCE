@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Document</title>
+    <title>Bachelor of Arts</title>
      <link rel="stylesheet" href="../css/blog.css" >
     <?php include('../includes/header.php') ?>
 </head>
