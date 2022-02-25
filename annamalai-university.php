@@ -1,9 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Annamalai University</title>
     <link rel="stylesheet" href="css/blog.css" >
      <?php include('./includes/header.php') ?>
+     <!-- Primary Meta Tags -->
+  <title>Annamalai University Distance Education</title>
+  <meta name="title" content="Annamalai University Distance Education">
+  <meta name="description" content="Annamalai University, accredited with ‘A’ Grade by NAAC in 2014, is one of India’s largest public residential universities with 10 Faculties and 49 departments of study. Sprawling over 950 Acres of land">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://eduprov.in/annamalai-university.php">
+  <meta property="og:title" content="Annamalai University Distance Education">
+  <meta property="og:description" content="Annamalai University, accredited with ‘A’ Grade by NAAC in 2014, is one of India’s largest public residential universities with 10 Faculties and 49 departments of study. Sprawling over 950 Acres of land">
+  <meta property="og:image" content="">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://eduprov.in/annamalai-university.php">
+  <meta property="twitter:title" content="Annamalai University Distance Education">
+  <meta property="twitter:description" content="Annamalai University, accredited with ‘A’ Grade by NAAC in 2014, is one of India’s largest public residential universities with 10 Faculties and 49 departments of study. Sprawling over 950 Acres of land">
+  <meta property="twitter:image" content="">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollegeOrUniversity",
+  "name": "Eduprov",
+  "alternateName": "Eduprov Educational Institution",
+  "url": "https://eduprov.in/",
+  "logo": "https://eduprov.in/logo/eduprov_logo_color.png",
+  "sameAs": [
+    "https://www.facebook.com/eduprovinstitute/",
+    "https://twitter.com/eduprov",
+    "https://www.instagram.com/eduprov_education/",
+    "",
+    "https://www.linkedin.com/in/eduprov-educational-institute-ab2b24115/",
+    "https://www.tumblr.com/blog/view/eduprov",
+    "https://www.eduprov.in/"
+  ]
+}
+</script>
 </head>
 <body>
      <!-- navbar -->

@@ -1,9 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Bachelor of Business Administration</title>
     <link rel="stylesheet" href="../css/blog.css" />
     <?php include('../includes/header.php') ?>
+    <!-- Primary Meta Tags -->
+    <title>Bachelor of Business Administration Distance Education</title>
+    <meta name="title" content="Bachelor of Business Administration Distance Education">
+    <meta name="description" content="Bachelor of Business Administration / BBA is an undergraduate program in business administration and commerce. It is a 3 years degree course that awarded you after finishing your study in one or more areas of business attentions">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://eduprov.in/blogs/bachelor-of-business-administration.php">
+    <meta property="og:title" content="Bachelor of Business Administration Distance Education">
+    <meta property="og:description" content="Bachelor of Business Administration / BBA is an undergraduate program in business administration and commerce. It is a 3 years degree course that awarded you after finishing your study in one or more areas of business attentions">
+    <meta property="og:image" content="">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://eduprov.in/blogs/bachelor-of-business-administration.php">
+    <meta property="twitter:title" content="Bachelor of Business Administration Distance Education">
+    <meta property="twitter:description" content="Bachelor of Business Administration / BBA is an undergraduate program in business administration and commerce. It is a 3 years degree course that awarded you after finishing your study in one or more areas of business attentions">
+    <meta property="twitter:image" content="">
+     <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollegeOrUniversity",
+  "name": "Eduprov",
+  "alternateName": "Eduprov Educational Institution",
+  "url": "https://eduprov.in/",
+  "logo": "https://eduprov.in/logo/eduprov_logo_color.png",
+  "sameAs": [
+    "https://www.facebook.com/eduprovinstitute/",
+    "https://twitter.com/eduprov",
+    "https://www.instagram.com/eduprov_education/",
+    "",
+    "https://www.linkedin.com/in/eduprov-educational-institute-ab2b24115/",
+    "https://www.tumblr.com/blog/view/eduprov",
+    "https://www.eduprov.in/"
+  ]
+}
+</script>
 </head>
 <body>
 

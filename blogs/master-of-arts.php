@@ -1,9 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Master of Arts</title>
    <link rel="stylesheet" href="../css/blog.css" />
     <?php include('../includes/header.php') ?>
+    <!-- Primary Meta Tags -->
+    <title>Master of Arts Distance Education</title>
+    <meta name="title" content="Master of Arts Distance Education">
+    <meta name="description" content="Master of Arts / MA is a postgraduate degree program that can be pursued in a wide range of specializations. The duration of this course is 2 years offered by universities all over the world.">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://eduprov.in/blogs/master-of-arts.php">
+    <meta property="og:title" content="Master of Arts Distance Education">
+    <meta property="og:description" content="Master of Arts / MA is a postgraduate degree program that can be pursued in a wide range of specializations. The duration of this course is 2 years offered by universities all over the world.">
+    <meta property="og:image" content="">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://eduprov.in/blogs/master-of-arts.php">
+    <meta property="twitter:title" content="Master of Arts Distance Education">
+    <meta property="twitter:description" content="Master of Arts / MA is a postgraduate degree program that can be pursued in a wide range of specializations. The duration of this course is 2 years offered by universities all over the world.">
+    <meta property="twitter:image" content="">
+     <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollegeOrUniversity",
+  "name": "Eduprov",
+  "alternateName": "Eduprov Educational Institution",
+  "url": "https://eduprov.in/",
+  "logo": "https://eduprov.in/logo/eduprov_logo_color.png",
+  "sameAs": [
+    "https://www.facebook.com/eduprovinstitute/",
+    "https://twitter.com/eduprov",
+    "https://www.instagram.com/eduprov_education/",
+    "",
+    "https://www.linkedin.com/in/eduprov-educational-institute-ab2b24115/",
+    "https://www.tumblr.com/blog/view/eduprov",
+    "https://www.eduprov.in/"
+  ]
+}
+</script>
 </head>
 <body>
        <?php include('../includes/navigation.php')  ?>

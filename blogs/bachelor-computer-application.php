@@ -1,9 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Bachelors of Computer Applications</title>
     <link rel="stylesheet" href="../css/blog.css" />
     <?php include('../includes/header.php') ?>
+    <!-- Primary Meta Tags -->
+    <title>Bachelors of Computer Applications Distance Education</title>
+    <meta name="title" content="Bachelors of Computer Applications Distance Education">
+    <meta name="description" content="Bachelor of Computer Application / BCA is an undergraduate degree course in the Computer Application field. BCA is a 3-year degree course with 6 semesters and it is also available in the long-distance learning course by many universities.">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://eduprov.in/blogs/bachelor-computer-application.php">
+    <meta property="og:title" content="Bachelors of Computer Applications Distance Education">
+    <meta property="og:description" content="Bachelor of Computer Application / BCA is an undergraduate degree course in the Computer Application field. BCA is a 3-year degree course with 6 semesters and it is also available in the long-distance learning course by many universities.">
+    <meta property="og:image" content="">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://eduprov.in/blogs/bachelor-computer-application.php">
+    <meta property="twitter:title" content="Bachelors of Computer Applications Distance Education">
+    <meta property="twitter:description" content="Bachelor of Computer Application / BCA is an undergraduate degree course in the Computer Application field. BCA is a 3-year degree course with 6 semesters and it is also available in the long-distance learning course by many universities.">
+    <meta property="twitter:image" content="">
+     <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollegeOrUniversity",
+  "name": "Eduprov",
+  "alternateName": "Eduprov Educational Institution",
+  "url": "https://eduprov.in/",
+  "logo": "https://eduprov.in/logo/eduprov_logo_color.png",
+  "sameAs": [
+    "https://www.facebook.com/eduprovinstitute/",
+    "https://twitter.com/eduprov",
+    "https://www.instagram.com/eduprov_education/",
+    "",
+    "https://www.linkedin.com/in/eduprov-educational-institute-ab2b24115/",
+    "https://www.tumblr.com/blog/view/eduprov",
+    "https://www.eduprov.in/"
+  ]
+}
+</script>
 </head>
 <body>
       <?php include('../includes/navigation.php')  ?>

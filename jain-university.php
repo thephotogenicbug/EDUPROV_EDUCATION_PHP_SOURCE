@@ -1,9 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Jain University</title>
     <link rel="stylesheet" href="css/blog.css" >
     <?php include('./includes/header.php') ?>
+    <!-- Primary Meta Tags -->
+    <title>Jain University Distance Education</title>
+    <meta name="title" content="Jain University Distance Education">
+    <meta name="description" content="JAIN (Deemed-to-be University) stands above the curve pan India. Over three decades, we place academic commitment and career achievement at the heart of our vision and mission. ">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://eduprov.in/jain-university.php">
+    <meta property="og:title" content="Jain University Distance Education">
+    <meta property="og:description" content="JAIN (Deemed-to-be University) stands above the curve pan India. Over three decades, we place academic commitment and career achievement at the heart of our vision and mission. ">
+    <meta property="og:image" content="">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://eduprov.in/jain-university.php">
+    <meta property="twitter:title" content="Jain University Distance Education">
+    <meta property="twitter:description" content="JAIN (Deemed-to-be University) stands above the curve pan India. Over three decades, we place academic commitment and career achievement at the heart of our vision and mission. ">
+    <meta property="twitter:image" content="">
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollegeOrUniversity",
+  "name": "Eduprov",
+  "alternateName": "Eduprov Educational Institution",
+  "url": "https://eduprov.in/",
+  "logo": "https://eduprov.in/logo/eduprov_logo_color.png",
+  "sameAs": [
+    "https://www.facebook.com/eduprovinstitute/",
+    "https://twitter.com/eduprov",
+    "https://www.instagram.com/eduprov_education/",
+    "",
+    "https://www.linkedin.com/in/eduprov-educational-institute-ab2b24115/",
+    "https://www.tumblr.com/blog/view/eduprov",
+    "https://www.eduprov.in/"
+  ]
+}
+</script>
 </head>
 <body>
       <!-- navbar -->

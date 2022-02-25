@@ -1,9 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Singhania University</title>
     <link rel="stylesheet" href="css/blog.css" >
     <?php include('./includes/header.php') ?>
+    <!-- Primary Meta Tags -->
+  <title>Singhania University Distance Education</title>
+  <meta name="title" content="Singhania University Distance Education">
+  <meta name="description" content="Singhania University was inaugurated on 21st Oct 2007 by a great visionary and a philanthropist, Shri D.C. Singhania to impart quality education of world class standards">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://eduprov.in/singhania-university.php">
+  <meta property="og:title" content="Singhania University Distance Education">
+  <meta property="og:description" content="Singhania University was inaugurated on 21st Oct 2007 by a great visionary and a philanthropist, Shri D.C. Singhania to impart quality education of world class standards">
+  <meta property="og:image" content="">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://eduprov.in/singhania-university.php">
+  <meta property="twitter:title" content="Singhania University Distance Education">
+  <meta property="twitter:description" content="Singhania University was inaugurated on 21st Oct 2007 by a great visionary and a philanthropist, Shri D.C. Singhania to impart quality education of world class standards">
+  <meta property="twitter:image" content="">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollegeOrUniversity",
+  "name": "Eduprov",
+  "alternateName": "Eduprov Educational Institution",
+  "url": "https://eduprov.in/",
+  "logo": "https://eduprov.in/logo/eduprov_logo_color.png",
+  "sameAs": [
+    "https://www.facebook.com/eduprovinstitute/",
+    "https://twitter.com/eduprov",
+    "https://www.instagram.com/eduprov_education/",
+    "",
+    "https://www.linkedin.com/in/eduprov-educational-institute-ab2b24115/",
+    "https://www.tumblr.com/blog/view/eduprov",
+    "https://www.eduprov.in/"
+  ]
+}
+</script>
 </head>
 <body>
   

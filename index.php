@@ -1,11 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Best Distance Education in Bangalore</title>
     <link rel="stylesheet" href="css/carousel.css" />
     <?php include('./includes/header.php') ?>
+    <!-- Primary Meta Tags -->
+    <title>Best Distance Education in Bangalore</title>
+    <meta name="title" content="Best Distance Education in Bangalore">
+    <meta name="description" content="Eduprov`s Distance education approach is very holistic and productive for students choosing amongst a pool of variants in colleges considering the factual part of admissions.">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://eduprov.in/">
+    <meta property="og:title" content="Best Distance Education in Bangalore">
+    <meta property="og:description" content="Eduprov`s Distance education approach is very holistic and productive for students choosing amongst a pool of variants in colleges considering the factual part of admissions.">
+    <meta property="og:image" content="https://res.cloudinary.com/dv5jjlsd7/image/upload/v1645783048/1_fgxepr.jpg">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://eduprov.in/">
+    <meta property="twitter:title" content="Best Distance Education in Bangalore">
+    <meta property="twitter:description" content="Eduprov`s Distance education approach is very holistic and productive for students choosing amongst a pool of variants in colleges considering the factual part of admissions.">
+    <meta property="twitter:image" content="https://res.cloudinary.com/dv5jjlsd7/image/upload/v1645783048/1_fgxepr.jpg">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollegeOrUniversity",
+    "name": "Eduprov",
+    "alternateName": "Eduprov Educational Institution",
+    "url": "https://eduprov.in/",
+    "logo": "https://eduprov.in/logo/eduprov_logo_color.png",
+    "sameAs": [
+      "https://www.facebook.com/eduprovinstitute/",
+      "https://twitter.com/eduprov",
+      "https://www.instagram.com/eduprov_education/",
+      "",
+      "https://www.linkedin.com/in/eduprov-educational-institute-ab2b24115/",
+      "https://www.tumblr.com/blog/view/eduprov",
+      "https://www.eduprov.in/"
+    ]
+  }
+  </script>
 </head>
-  <body onload="togglePopup()">
+  <body>
   
    <?php include('./includes/navigation.php')  ?>
 
@@ -219,7 +254,7 @@
     <!-- home_page_distance_learning_university_content_card_end -->
 
     <!-- popup form  -->
-    <div class="container popup" id="popup-1">
+    <!-- <div class="container popup" id="popup-1">
         <div class="overlay"></div>
         <div class="content">
             <div class="close-btn" onclick="togglePopup()">&times;</div>
@@ -252,7 +287,7 @@
                 </div>
             </div> 
         </div>
-     </div>
+     </div> -->
   
     <?php include('./includes/footer.php')  ?>
      <script src="app.js"></script>

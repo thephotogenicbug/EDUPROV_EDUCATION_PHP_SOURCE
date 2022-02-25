@@ -1,9 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Bachelor of Arts</title>
     <link rel="stylesheet" href="../css/blog.css" />
      <?php include('../includes/header.php') ?>
+     <!-- Primary Meta Tags -->
+    <title>Bachelor of Arts Distance Education</title>
+    <meta name="title" content="Bachelor of Arts Distance Education">
+    <meta name="description" content="Bachelor of Arts / B.A is a graduate programin which students learn about Liberal Arts or Science or both This course is the oldest course which is still the best choices for many people nowadays. The time duration to complete the course is about 3 years basically.">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://eduprov.in/blogs/bachelor-of-arts.php">
+    <meta property="og:title" content="Bachelor of Arts Distance Education">
+    <meta property="og:description" content="Bachelor of Arts / B.A is a graduate programin which students learn about Liberal Arts or Science or both This course is the oldest course which is still the best choices for many people nowadays. The time duration to complete the course is about 3 years basically.">
+    <meta property="og:image" content="">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://eduprov.in/blogs/bachelor-of-arts.php">
+    <meta property="twitter:title" content="Bachelor of Arts Distance Education">
+    <meta property="twitter:description" content="Bachelor of Arts / B.A is a graduate programin which students learn about Liberal Arts or Science or both This course is the oldest course which is still the best choices for many people nowadays. The time duration to complete the course is about 3 years basically.">
+    <meta property="twitter:image" content="">
+     <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollegeOrUniversity",
+  "name": "Eduprov",
+  "alternateName": "Eduprov Educational Institution",
+  "url": "https://eduprov.in/",
+  "logo": "https://eduprov.in/logo/eduprov_logo_color.png",
+  "sameAs": [
+    "https://www.facebook.com/eduprovinstitute/",
+    "https://twitter.com/eduprov",
+    "https://www.instagram.com/eduprov_education/",
+    "",
+    "https://www.linkedin.com/in/eduprov-educational-institute-ab2b24115/",
+    "https://www.tumblr.com/blog/view/eduprov",
+    "https://www.eduprov.in/"
+  ]
+}
+</script>
 </head>
 <body>
       <?php include('../includes/navigation.php')  ?>

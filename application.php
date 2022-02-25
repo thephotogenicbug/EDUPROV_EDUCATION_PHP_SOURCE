@@ -68,7 +68,7 @@
     ?>
     <!-- Msg -->
     <?php if(!empty($response)) {?>
-      <div class="alert text-center <?php echo $response['status']; ?>" role="alert">
+      <div class="alert text-center mt-5 <?php echo $response['status']; ?>" role="alert">
         <?php echo $response['message']; ?>
       </div>
     <?php }?>
