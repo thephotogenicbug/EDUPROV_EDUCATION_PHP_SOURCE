@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,6 +12,28 @@
       </script>
 </head>
 <body>
+    
+<?php
+
+ if(isset($_POST['send'])){
+   $name = $_POST['name'];
+   $email = $_POST['email'];
+   $mobileno = $_POST['mobileno'];
+
+   $to = "naveen@eduprov.com";
+   $subject ="Application Form Data";
+   $message = "Name :".$name."\n"."Phone:".$mobileno;
+   $headers = "From ".$email;
+   if(mail($to, $subject, $message, $headers)){
+			echo "<h1>Sent Successfully! Thank you"." ".$name.", We will contact you shortly!</h1>";
+		}
+		else{
+			echo "Something went wrong!";
+		}
+ }
+    
+?>
+
 
   <!-- navbar -->
       <?php include('./includes/navigation.php')  ?>
