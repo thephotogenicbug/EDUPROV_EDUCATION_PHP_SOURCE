@@ -19,10 +19,20 @@
    $name = $_POST['name'];
    $email = $_POST['email'];
    $mobileno = $_POST['mobileno'];
+   $dob = $_POST['dob'];
+   $gender = $_POST['gender'];
+   $fathername = $_POST['fathername'];
+   $mothername = $_POST['mothername'];
+   $examname = $_POST['examname'];
+   $universityname = $_POST['universityname'];
+   $schoolname = $_POST['schoolname'];
+   $yearofpassing = $_POST['yearofpassing'];
+   $percentage = $_POST['percentage'];
+   $address = $_POST['address'];
 
-   $to = "naveen@eduprov.com";
-   $subject ="Application Form Data";
-   $message = "Name :".$name."\n"."Phone:".$mobileno;
+   $to = "info@eduprov.com";
+   $subject ="Distance Application Form Data";
+   $message = "Name : ".$name."\n"."MobileNo : ".$mobileno."\n"."Date of Birth : ".$dob."\n"."Gender : ".$gender."\n"."Father Name : ".$fathername."\n"."Mother Name : ".$mothername."\n"."Exam Name : ".$examname."\n"."University Name : ".$universityname."\n"."School Name : ".$schoolname."\n"."Year of Passing : ".$yearofpassing."\n"."Percentage : ".$percentage."\n"."Address : ".$address ;
    $headers = "From ".$email;
    if(mail($to, $subject, $message, $headers)){
 			echo "<h1>Sent Successfully! Thank you"." ".$name.", We will contact you shortly!</h1>";
@@ -139,7 +149,7 @@
                 </div>
                  <div class="col-md-4">
                   <label>Name of Exam</label>
-                  <input type="email" name="examname" id="examname"  class="form-control" />
+                  <input type="text" name="examname" id="examname"  class="form-control" />
                 </div>
                  <div class="col-md-4">
                   <label>Name of University</label>
@@ -153,7 +163,7 @@
                 </div>
                  <div class="col-md-4">
                   <label>Year of Passing</label>
-                  <input type="email" name="yearofpassing" id="yearofpassing" class="form-control" />
+                  <input type="text" name="yearofpassing" id="yearofpassing" class="form-control" />
                 </div>
                  <div class="col-md-4">
                   <label>Percentage</label>
